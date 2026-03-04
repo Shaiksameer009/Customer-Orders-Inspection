@@ -1,6 +1,6 @@
 # Customer Orders Inspection Assignment
 
-#Objective
+#Objective:
 This assignment analyzes an e-commerce orders dataset using Python and Pandas.
 
 #Dataset Information

@@ -40,7 +40,3 @@ The dataset contains the following columns:
 - Missing values found in quantity and order_date.
 - Median unit_price is ₹2500.
 - unit_price is positively skewed due to high maximum value.
-
----
-
-Submitted as part of assignment requirements.
